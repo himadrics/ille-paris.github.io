@@ -74,7 +74,7 @@ netease_comment: false
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
 sidebar-about-description: "Connect with us on social media <br> @ille_paris_official"
-sidebar-avatar: img/ille_paris_logo.jpeg # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: https://raw.githubusercontent.com/himadrics/ille-paris.github.io/master/img/ille_paris_logo.jpeg # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
 featured-tags: true # whether or not using Feature-Tags
