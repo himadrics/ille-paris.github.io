@@ -1,11 +1,11 @@
 # Site settings
 title: Indian Languages and Literature Enthusiasts in Paris
-SEOTitle: Rango Blog
+SEOTitle: ille_paris
 header-img: img/ille_paris_home-bg.jpg
-email: rangonomics@gmail.com
+email: ille_paris@protonmail.com
 description: "Rango's Blog Page | Learning, Lifestyle, Experiences"
-keyword: "Rango, Rango Blog, Github Pages, Web, JavaScript, React, React Native"
-url: "guilyx.github.com" # your host, for absolute URL
+keyword: "India, Paris, Reading, Writing, Literature, Indian Languages, Indian Literature, Indian Authors, Indian Readers, Indian Writers"
+url: "ille-paris.fr" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
