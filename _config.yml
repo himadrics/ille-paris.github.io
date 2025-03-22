@@ -73,8 +73,8 @@ netease_comment: false
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "Rango <br> Swarm Team @ ATRC"
-sidebar-avatar: https://github.com/guilyx.png # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "Connect with us on social media <br> @ille_paris_official"
+sidebar-avatar: img/ille_paris_logo.jpeg # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
 featured-tags: true # whether or not using Feature-Tags
@@ -90,5 +90,5 @@ page-mathjax: false
 # Friends
 friends:
   [
-    { title: "Open PR to be featured!", href: "https://github.com/guilyx/guilyx.github.io/pulls" },
+    { title: "Click here to check-out our upcoming events.", href: "https://mobilizon.fr/@ille_paris/events" },
   ]
