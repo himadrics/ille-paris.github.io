@@ -13,10 +13,12 @@ future: true
 
 # SNS settings
 RSS: false
-github_username: guilyx
-twitter_username: rangonomics
+#github_username: guilyx
+#twitter_username: rangonomics
 #facebook_username:  huxpro
 #linkedin_username:  huxpro
+instagram_username: ille_paris_official
+mastodon_username: ille_paris_official
 
 # Build settings
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
